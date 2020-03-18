@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void showToast(View view){
+        count = 0;
         Toast toast = Toast.makeText(this, R.string.ToastMessage, Toast.LENGTH_SHORT);
         mShowCount.setText("Hello World!");
         toast.show();
