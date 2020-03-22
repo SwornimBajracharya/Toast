@@ -2,5 +2,5 @@
 
 Counter and toast app
 
-![](https://imgur.com/tl5n5Qn)
+![](https://imgur.com/a/i013plg)
 
